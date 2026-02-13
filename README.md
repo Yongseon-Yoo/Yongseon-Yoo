@@ -1,16 +1,22 @@
-## Hi there 👋
+# 안녕하세요. 유용선입니다.
 
-<!--
-**Yongseon-Yoo/Yongseon-Yoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-Here are some ideas to get you started:
+## 🧠 Algorithm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📜 Certifications
+- 
+
+
+## 📫 Contact
+- ✉️ Email: [bestwondev@gmail.com](mailto:bestwondev@gmail.com)
+
+## 📊 GitHub Stats
+
+![Yongseon-Yoo's GitHub Stats](https://github-readme-stats-one-lake-40.vercel.app/api?username=Yongseon-Yoo&show_icons=true&theme=github_dark&hide=contribs&count_private=true)
+
+![Top Langs](https://github-readme-stats-one-lake-40.vercel.app/api/top-langs/?username=Yongseon-Yoo&layout=compact&theme=github_dark)
