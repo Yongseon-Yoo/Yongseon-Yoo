@@ -1,22 +1,64 @@
-# 안녕하세요. 유용선입니다.
+# Hi , I’m Yongseon Yoo
+---
+## 📌 About Me
+I’m a Computer Science student at Soongsil University, aspiring to become a backend developer.
+
+I focus on building stable REST APIs using Java and Spring Boot while gaining a deeper understanding of how backend systems operate as a whole.  
+I also explore AI tools such as RAG and LangGraph to extend backend functionality and connect diverse technologies into real services.
+
+I aim to grow into a developer who not only builds features, but also understands and thoughtfully improves the systems behind them.
 
 ## 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Languages
 
-## 🧠 Algorithm
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-thebadge&logo=python&logoColor=white)
 
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+### Frameworks & Libraries
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+![Spring OAuth2.0](https://img.shields.io/badge/Spring%20OAuth2.0-6DB33F?style=flat&logo=spring&logoColor=white)
+![LangChain4j](https://img.shields.io/badge/LangChain4j-1C1C1C?style=flat&logo=java&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+
+
+### Tools
+
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+
+---
+
+## 🧑‍💻 Experience
+
+- **2025 숭실대학교 ICT프로젝트 수료**
+ (2025.07 ~ 2025.08)
+
+- **UMC 9기 — Spring Boot Part**
+ (2025.09 ~ 2026.02)
+
+---
+## 🏆 Awards
+- [숭실대X렛유인] 2025 ICT프로젝트 챌린지 우수상 (2025.08)  
+
+---
 
 ## 📜 Certifications
-- 
+-  SAP C_P2WAB Backend Developer - ABAP Cloud
 
+
+---
 
 ## 📫 Contact
 - ✉️ Email: [heremyhands7777@gmail.com](mailto:heremyhands7777@gmail.com)
 
-## 📊 GitHub Stats
 
-![Yongseon-Yoo's GitHub Stats](https://github-readme-stats-one-lake-40.vercel.app/api?username=Yongseon-Yoo&show_icons=true&theme=github_dark&hide=contribs&count_private=true)
-
-![Top Langs](https://github-readme-stats-one-lake-40.vercel.app/api/top-langs/?username=Yongseon-Yoo&layout=compact&theme=github_dark)
